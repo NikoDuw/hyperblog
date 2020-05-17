@@ -1,6 +1,22 @@
 body
 {
-    color: deeppink;
-    text-align: center;
-    font-family: Arial;
+    color: #333; /*color texto*/
+    text-align: center; /*alineacion texto*/
+    font-family: Arial; /*tipografia texto*/
+    font-size: 16px; /*tamaño de texto en pixeles*/
+    margin: 0; /**/
+    padding: 0;
+}
+#container
+{
+    width: 70%; /*cajita div anño*/
+    padding: 1em; /*bordes*/
+    text-align: left; /*alineacion del texo*/
+    border: 1px solid #DDD; /*caracteristicas borde*/
+    margin: 0 auto;/*margen y auto para que se centre*/
+}
+
+#container h1
+{
+    font-size: 20px; /*tamaño del titulo*/
 }
