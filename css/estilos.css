@@ -1,6 +1,6 @@
-body
+﻿body
 {
-    color: blue; /*color texto*/
+    color: #333; /*color texto*/
     text-align: center; /*alineacion texto*/
     font-family: Arial; /*tipografia texto*/
     font-size: 16px; /*tamaño de texto en pixeles*/
